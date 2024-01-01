@@ -1,4 +1,4 @@
-# Prescriber's Wealth and Drug Prescription Flexibility
+# Prescribers' Wealth and Drug Prescription Flexibility
 Hypothesis: Prescribers that live in wealthier neighborhoods are more “flexible”
 to prescribe diabetic drugs to patients that don't necessarily have diabetes.
 
