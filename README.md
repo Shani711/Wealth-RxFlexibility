@@ -32,22 +32,31 @@ of pocket, the results would align more closely with my expectations.
  
 
 Steps taken:
+
       - Read through the Medicare Services dataset, determining which prescribers offer
         diabetic services and the quantity.
+        
       - Read through the Medicare Drug Prescriptions dataset, determining which
         prescribers prescribe diabetic drugs and the quantity.
+        
       - Then I compared the results of step 1 and 2, yielding a drug to service ratio
         for each prescriber.
+        
       - Read through the IRS Income Tax dataset, yielding an average income for each zip
         code.
+        
       - Read through the Doctor NPI dataset, collecting NPI and Zip for each prescriber.
+      
       - Compared the results of steps 4 and 5, yielding the average income for the
         neighborhood each prescriber lives.
+        
       - Compared steps 3 and 6, providing the NPI, income, and Ratio for each prescriber. 
+      
       - Plotted a plot to visualize the results.
 
 
 This data was found at:
+
 https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Part-D-Prescriber.html
 
 https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Physician-and-Other-Supplier.html
