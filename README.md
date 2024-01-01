@@ -32,6 +32,7 @@ of pocket, the results would align more closely with my expectations.
  
 
 Steps taken:
+
       - Read through the Medicare Services dataset, determining which prescribers offer
         diabetic services and the quantity.
       - Read through the Medicare Drug Prescriptions dataset, determining which
@@ -48,6 +49,7 @@ Steps taken:
 
 
 This data was found at:
+
 https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Part-D-Prescriber.html
 
 https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Physician-and-Other-Supplier.html
